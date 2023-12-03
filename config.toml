@@ -66,14 +66,14 @@ apkmirror-arch = "arm64-v8a + x86_64"
 [Messenger]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
 apkmirror-arch = "arm64-v8a"
-version = "435.0.0.32.108"
+version = "436.0.0.45.111"
 apkmirror-dpi = "360-480dpi"
 
 [Facebook]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
 apkmirror-arch = "arm64-v8a"
-version = "441.1.0.39.109"
-apkmirror-dpi = "360-480dpi"
+version = "442.0.0.44.114"
+
 
 [Spotify]
 enabled = false
