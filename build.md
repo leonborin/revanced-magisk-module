@@ -1,5 +1,5 @@
+Messenger: 440.0.0.30.352  
 Facebook: 442.0.0.44.114  
-Messenger: 439.0.0.29.119  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach YouTube and YT Music from Play Store  
