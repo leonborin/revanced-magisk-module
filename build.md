@@ -1,4 +1,5 @@
 Messenger: 448.0.0.47.109  
+Facebook: 454.0.0.44.104  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
 
