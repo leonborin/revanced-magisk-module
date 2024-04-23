@@ -1,7 +1,8 @@
-Twitch: 16.9.1  
 YouTube: 19.11.43  
-Messenger: 454.0.0.37.109  
+Music: 6.48.51  
+Twitch: 16.9.1  
 Twitter: 10.37.0-release.0  
+Messenger: 454.0.0.37.109  
 Reddit: 2024.16.0  
 TikTok: 32.5.3  
 
