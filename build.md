@@ -1,9 +1,10 @@
-YouTube: 19.11.43  
 Music: 6.48.51  
+YouTube: 19.11.43  
 Twitch: 16.9.1  
 Twitter: 10.37.0-release.0  
-Messenger: 454.0.0.37.109  
 Reddit: 2024.16.0  
+Messenger: 454.0.0.37.109  
+Facebook: 460.0.0.47.89  
 TikTok: 32.5.3  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
