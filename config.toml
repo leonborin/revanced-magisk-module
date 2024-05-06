@@ -16,7 +16,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "arm64-v8a"
-
+version = "6.48.51"
 
 [Twitter]
 build-mode = "apk"
@@ -31,6 +31,7 @@ included-patches = "'SIM spoof'"
 
 [Reddit]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+version = "2024.16.0"
 
 [Messenger]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
