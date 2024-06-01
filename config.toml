@@ -29,7 +29,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.music
 included-patches = "'SIM spoof'"
 
 [Reddit]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 version = "2024.17.0"
 
 [Messenger]
